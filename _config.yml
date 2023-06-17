@@ -74,8 +74,8 @@ social:
 # Analytics
 analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
-  custom:
-    measurement_id          : "G-8HN3SS877L"
+  # custom:
+  #   measurement_id          : "G-8HN3SS877L"
 
 
 # Site Author
