@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,9 +13,3 @@ May 2023 Update: Passionate about Responsible AI in Healthcare/Biomedicine, rece
 
 Skills: Machine Learning, Deep Learning, Statistics, Project Management, Python, PyTorch, SQL, AWS, Spark, Biomedical Data
 
-A data-driven personal website
-======
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
