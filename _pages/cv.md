@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.B.A. in Economics, Hong Kong University of Science and Technology, 2013
+* M.S. in Data Analytics, Carnegie Mellon University, 2023
 
-Work experience
+Machine Learning and Data Science Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Present: Research Assistant
+  * University of Illinois Urbana-Champaign
+  * Duties included: Created healthcare cost predictive models using Electronic Health Record (EHR) and claims data with a large healthcare company’s dataset; Designed relevant features for different model objectives
+  * Supervisor: Professor Jimeng Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2023 - Present: Research Assistant
+  * Carnegie Mellon University & University of Illinois Urbana-Champaign
+  * Duties included: Investigate robustness of early diagnosis of Alzheimer’s Disease with Convolutional Neural Networks trained on MRIs from Alzheimer’s Disease Neuroimaging Initiative; Prepared image processing pipeline for segmentation of brain MRIs
+  * Supervisor: Professor Wei Wu & Professor Haohan Wang
+ 
+* Dec 2022 - Present: Research Assistant
+  * Carnegie Mellon University
+  * Duties included: Trained and deployed DL models on AWS for agricultural price prediction with 15+ years of daily data; Managed ETL pipeline in Python to SQL database with Git; Designed webpage to monitor model degradation
+  * Supervisor: Professor George H. Chen
+ 
   
 Skills
 ======
@@ -36,17 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -54,6 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Select Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* Jewish Healthcare Foundation | Feinstein Patient Safety Fellowship
+* SAS Hackathon | Top 3 in Machine Learning Category
