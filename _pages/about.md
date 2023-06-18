@@ -11,13 +11,11 @@ redirect_from:
 
 Hi 👋! I am Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
-<font size="-1"> † denotes alphabetical author ordering </font> 
-<br />
-
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI.
 
 Previously, I received from Carnegie Mellon University my master's degree in data analytics in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in product and project management in the internet/fintech industry at companies such as Tencent. 
 
+<font size="-1"> † denotes alphabetical author ordering </font> <br />
 [comment]: <[![Thomas Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrockets-21)](https://github.com/anuraghazra/github-readme-stats)>
 
 Recent Updates:
@@ -32,9 +30,9 @@ Recent Updates:
 
 Skills:
 ---
-Machine Learning, Deep Learning, Statistics, Python, PyTorch, SQL, AWS, Spark, Linux, 
-Healthcare + Biomedical Applications
-Product + Project Management
+Machine Learning, Deep Learning, Statistics, Python, PyTorch, SQL, AWS, Spark, Linux <br />
+Healthcare + Biomedical Applications <br />
+Product + Project Management <br />
 
 Other things I do:
 ---
