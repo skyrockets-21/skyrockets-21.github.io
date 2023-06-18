@@ -15,7 +15,7 @@ Aspired to an impactful AI career in healthcare, I am currently working on two M
 
 Previously, I received from Carnegie Mellon University my master's degree in data analytics in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in product and project management in the internet/fintech industry at companies such as Tencent. 
 
-<font size="-1"> † denotes alphabetical author ordering </font> <br />
+<font size="-1"> † denotes alphabetical ordering </font> 
 
 [comment]: <[![Thomas Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrockets-21)](https://github.com/anuraghazra/github-readme-stats)>
 
