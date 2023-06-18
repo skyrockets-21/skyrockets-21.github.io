@@ -27,17 +27,23 @@ Recent Updates:
 
 **May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
 
-**April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](http://sunlab.org/). and Ph.D. student [Zhen Lin](zlin7.github.io) as my advisors 🔥! 
+**April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
 
 Skills:
 ---
-Machine Learning, Deep Learning, Statistics, Python, PyTorch, SQL, AWS, Spark, Linux <br />
+Machine Learning <br />
+Deep Learning <br />
+Statistics <br />
 Healthcare + Biomedical Applications <br />
 Product + Project Management <br />
 
-Other things I do:
+Things other than ML I enjoy doing:
 ---
-🥾🏕️⛰️📖🎵🚀
+Hiking 🥾
+Camping 🏕️
+Reading 📖
+Music 🎵
+🚀
 
 
 
