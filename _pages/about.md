@@ -32,7 +32,7 @@ I received my master's degree in Data Analytics and Public Policy from Carnegie 
 
 Recent Updates:
 ---
-**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person at organized by the Stanford University 🤓😎!
+**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
 **June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
 
@@ -40,7 +40,7 @@ Recent Updates:
 
 **April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
 
-**April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) at MIT 🤓😎! 
+**April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT 🤓😎! 
 
 Keywords:
 ---
