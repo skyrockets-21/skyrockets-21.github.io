@@ -48,6 +48,10 @@ Statistics <br />
 Healthcare + Biomedical Applications <br />
 Product + Project Management <br />
 
+Book(s) I am reading:
+---
+The Raging 2020s: Companies, Countries, People - and the Fight for Our Future by Alec Ross
+
 Things other than ML I enjoy doing:
 ---
 Hiking 🥾
