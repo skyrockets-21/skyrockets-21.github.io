@@ -18,7 +18,9 @@ redirect_from:
   gtag('config', 'G-8HN3SS877L');
 </script>
 
-![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg)
+![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
+
+
 
 Hi 👋! I am a self-driven 🔥🚀 Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
@@ -64,6 +66,13 @@ Camping 🏕️
 Reading 📖
 Music 🎵
 🚀
+<br />
+<br />
+<br />
+<font size="-1"> Last Update: June 18, 2023 </font> <br />
+<br />
+<br />
+<br />
 
-
+![Hong Kong - Shutterstock](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F072d8162-5085-11ed-9137-92183a3ffe2c.jpg?crop=1500%2C844%2C0%2C78 "Hong Kong - Shutterstock")
 
