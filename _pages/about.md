@@ -7,6 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HN3SS877L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8HN3SS877L');
+</script>
+
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg)
 
 Hi 👋! I am Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
