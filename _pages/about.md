@@ -13,7 +13,7 @@ Hi 👋! I am Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research 
 
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
-I received from Carnegie Mellon University my master's degree in data analytics in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in product and project management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html). 
+I received my master's degree in Data Analytics and Public Policy from Carnegie Mellon University in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in Product and Project Management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html) before CMU. 
 
 <font size="-1"> † denotes alphabetical ordering </font> 
 
