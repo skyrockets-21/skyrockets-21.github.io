@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Tam -> ML in Healthcare and Biomedicine :rocket:"
+title                    : "Thomas Tam -> ML in Healthcare and Biomedicine"
 title_separator          : "-"
 name                     : &name "Thomas Tam"
 description              : &description "personal description"
