@@ -11,9 +11,9 @@ redirect_from:
 
 Hi 👋! I am Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
-Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI.
+Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
-Previously, I received from Carnegie Mellon University my master's degree in data analytics in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in product and project management in the internet/fintech industry at companies such as Tencent. 
+I received from Carnegie Mellon University my master's degree in data analytics in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in product and project management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html). 
 
 <font size="-1"> † denotes alphabetical ordering </font> 
 
@@ -21,7 +21,7 @@ Previously, I received from Carnegie Mellon University my master's degree in dat
 
 Recent Updates:
 ---
-**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person at Stanford University 😎!
+**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person at Stanford University 🤓😎!
 
 **June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
 
