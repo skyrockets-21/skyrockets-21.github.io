@@ -20,7 +20,7 @@ redirect_from:
 
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg)
 
-Hi 👋! I am Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
+Hi 👋! I am a self-driven 🔥🚀 Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
@@ -32,7 +32,7 @@ I received my master's degree in Data Analytics and Public Policy from Carnegie 
 
 Recent Updates:
 ---
-**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person at Stanford University 🤓😎!
+**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person at organized by the Stanford University 🤓😎!
 
 **June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
 
@@ -40,13 +40,18 @@ Recent Updates:
 
 **April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
 
-Skills:
+**April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) at MIT 🤓😎! 
+
+Keywords:
 ---
 Machine Learning <br />
 Deep Learning <br />
 Statistics <br />
+Healthcare Analytics <br />
+Biomedical Imaging <br />
 Healthcare + Biomedical Applications <br />
 Product + Project Management <br />
+Research <br />
 
 Book(s) I am reading:
 ---
