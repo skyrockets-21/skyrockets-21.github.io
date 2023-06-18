@@ -29,9 +29,9 @@ Machine Learning, Deep Learning, Statistics, Python, PyTorch, SQL, AWS, Spark, L
 Healthcare + Biomedical Applications
 Product + Project Management
 
-And...
+If I am not doing ML:
 ---
-🥾🏕️⛰️🚀
+🥾🏕️⛰️📖🎵🚀
 
 
 
