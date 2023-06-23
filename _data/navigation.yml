@@ -1,5 +1,8 @@
 # main links links
 main:
+   - title: "Useful Resources for Healthcare ML"
+    url: /useful/
+
   # - title: "Publications"
   #   url: /publications/
 
