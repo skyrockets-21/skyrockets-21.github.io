@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Useful Resources for Healthcare ML"
+excerpt: "Useful Resources"
+author_profile: true
+redirect_from: 
+  - /useful/
+  - /useful.html
+---
+
 # Useful Resources for Healthcare ML ⚕️ 
 *Last Updated: June 22, 2023* \
 Below are some resources I find very useful when I am doing my Healthcare ML research projects:
