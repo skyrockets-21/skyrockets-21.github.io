@@ -4,7 +4,7 @@ title: "Useful Resources for Healthcare ML"
 excerpt: "Useful Resources"
 author_profile: true
 redirect_from: 
-  - /useful/
+  - /useful
 
 ---
 
