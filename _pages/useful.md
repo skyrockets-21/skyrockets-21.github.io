@@ -5,7 +5,7 @@ excerpt: "Useful Resources"
 author_profile: true
 redirect_from: 
   - /useful/
-  - /useful.html
+
 ---
 
 *Last Updated: June 22, 2023* \
