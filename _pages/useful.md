@@ -41,7 +41,7 @@ CPT-4 (not GPT-4!) and HCPCS
 
 Data
 ---
-MIMIC - https://mimic.mit.edu/
-ADNI - https://adni.loni.usc.edu/
+MIMIC - https://mimic.mit.edu/ <br />
+ADNI - https://adni.loni.usc.edu/ <br />
 Chronic Conditions - http://www.ccwdata.org/
 
