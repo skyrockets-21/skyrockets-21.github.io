@@ -57,7 +57,9 @@ Research <br />
 
 Book(s) I am reading:
 ---
-The Raging 2020s: Companies, Countries, People - and the Fight for Our Future by Alec Ross
+**The Raging 2020s: Companies, Countries, People - and the Fight for Our Future** by Alec Ross <br />
+**Hands-On Healthcare Data** by Andrew Nguyen
+
 
 Things other than ML I enjoy doing:
 ---
