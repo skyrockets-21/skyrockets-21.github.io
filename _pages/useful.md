@@ -12,7 +12,7 @@ redirect_from:
 
 *Last Updated: June 28, 2023* \
 
-Below are some resources I find very useful when I am doing my Healthcare ML research projects. This is by no means an exhaustive list and there is so much to learn in the domain of healthcare ML if you wish to become a successful data scientist/ML researcher!
+Below are some resources I find very useful from the trenches of healthcare ML research. This is by no means an exhaustive list and there is so much to learn in the domain of healthcare if you wish to become a successful data scientist/ML researcher!
 
 EHR - related 
 ---
@@ -41,5 +41,7 @@ CPT-4 (not GPT-4!) and HCPCS
 
 Data
 ---
-http://www.ccwdata.org/
+MIMIC - https://mimic.mit.edu/
+ADNI - https://adni.loni.usc.edu/
+Chronic Conditions - http://www.ccwdata.org/
 
