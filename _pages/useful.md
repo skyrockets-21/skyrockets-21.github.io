@@ -1,6 +1,6 @@
 ---
 permalink: /useful/
-title: "Useful Resources for Healthcare ML"
+title: "Useful Healthcare ML Resources"
 excerpt: "Useful Resources"
 author_profile: true
 redirect_from: 
