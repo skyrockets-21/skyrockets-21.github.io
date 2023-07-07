@@ -47,8 +47,9 @@ eICU - <https://eicu-crd.mit.edu/> <br />
 #### Imaging
 ADNI - <https://adni.loni.usc.edu/> <br />
 
-Online Courses
+Courses at CMU / Online
 ---
+[02718 Computational Medicine - by Prof. Wei Wu at CMU]https://sites.google.com/view/computational-medicine/lectures
 [Machine Learning for Healthcare - by Prof. Edward Choi at KAIST (Youtube)](https://www.youtube.com/watch?v=sQrg-lICjtc&list=PLLENHvsRRLjAFG3pVw4TkifCrdk4Qd8Py) <br />
 [Deep Learning for Healthcare Specialization - by Prof. Jimeng Sun at UIUC (Coursera)](https://www.coursera.org/specializations/deep-learning-healthcare) <br />
 [AI in Healthcare Specialization by Stanford University (Coursera)](https://www.coursera.org/specializations/ai-healthcare) <br />
