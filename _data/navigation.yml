@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "Useful Resources for Healthcare ML"
+  - title: "Healthcare ML Resources"
     url: /useful/
 
   # - title: "Publications"
