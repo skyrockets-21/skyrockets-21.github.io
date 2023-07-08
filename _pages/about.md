@@ -34,6 +34,8 @@ I received my master's degree in Data Analytics and Public Policy from Carnegie 
 
 Recent Updates:
 ---
+**July 2023**: I am excited to share our diverse team of Healthcare and ML domain experts is participating in the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](the https://www.cs.cmu.edu/generative-ai/hackathons) 
+
 **June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
 **June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
