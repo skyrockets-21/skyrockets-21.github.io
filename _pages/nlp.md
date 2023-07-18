@@ -15,9 +15,12 @@ redirect_from:
 
 Verbalizer
 
-Span
+Span Detection
 
 Coreference Resolution
 
 cTakes
 https://ctakes.apache.org/
+
+Weak Supervision
+http://ai.stanford.edu/blog/weak-supervision/
