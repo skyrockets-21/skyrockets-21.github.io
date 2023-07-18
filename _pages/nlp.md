@@ -11,7 +11,12 @@ redirect_from:
 {% include base_path %}
 *Last Updated: July 17, 2023* 
 
+Unconditioned
 
+Conditioned
+
+
+Tokenizer
 
 Verbalizer
 
@@ -24,3 +29,8 @@ https://ctakes.apache.org/
 
 Weak Supervision
 http://ai.stanford.edu/blog/weak-supervision/
+
+Saampling Algorithm
+
+
+Temperature sampling 
