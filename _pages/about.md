@@ -34,21 +34,21 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 Recent Updates:
 ---
-**August 2023**: I am attending the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) from the 18th to 21st organized by the Emory University School of Medicine 🤓😎!
+**[Hackathon] August 2023**: I am attending the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) from the 18th to 21st organized by the Emory University School of Medicine 🤓😎!
 
-**August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected for People's Choice Award by the healthcare professionals audence at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
+**[Award] August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected for People's Choice Award by the healthcare professionals audence at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
 
-**July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**[Award] July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
-**June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
+**[Conference] June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
-**June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
+**[Award] June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
 
-**May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
+**[Award] May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
 
-**April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
+**[Research] April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
 
-**April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT 🤓😎! 
+**[Hackathon] April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT 🤓😎! 
 
 Keywords:
 ---
