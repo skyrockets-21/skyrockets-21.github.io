@@ -38,7 +38,7 @@ Recent Updates:
 
 **August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected for People's Choice Award by the healthcare professionals audence at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
 
-**July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](the https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
 **June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
