@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Tam -> ML in Healthcare and Biomedicine"
+title                    : "Thomas Tam -> ML in Healthcare"
 title_separator          : "-"
 name                     : &name "Thomas Tam"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas Tam" # edit side bar here
   avatar           : "Headshot - Thomas Tam (Small_SQ).jpg"
-  bio              : "ML in Healthcare and Biomedicine Researcher @ Carnegie Mellon University"
+  bio              : "ML in Healthcare Researcher @ Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         : # "Carnegie Mellon University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
