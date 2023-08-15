@@ -36,9 +36,9 @@ Recent Updates:
 ---
 **[Hackathon] August 2023**: I am attending the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) from the 18th to 21st organized by the Emory University School of Medicine 🤓😎!
 
-**[Award] August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected for People's Choice Award by the healthcare professionals audence at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
+**[Award] August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
 
-**[Award] July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**[Award] July 2023**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
 **[Conference] June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
