@@ -22,11 +22,11 @@ redirect_from:
 
 
 
-Hi 👋! I am a self-driven 🔥🚀 Machine Learning in Healthcare⚕️ and Biomedicine🧬 Research Assistant 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC). It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
+Hi 👋! I am a self-driven 🔥🚀 Machine Learning in Healthcare⚕️ 🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and Entrepreneur. It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
-I received my master's degree in Data Analytics and Public Policy from Carnegie Mellon University in May 2023 and my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in Product and Project Management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html) before CMU. 
+Before receiving my master's degree in Data Analytics and Public Policy from CMU this May, I did my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in Product and Project Management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html) 
 
 <font size="-1"> † denotes alphabetical ordering </font> 
 
@@ -34,6 +34,10 @@ I received my master's degree in Data Analytics and Public Policy from Carnegie 
 
 Recent Updates:
 ---
+**August 2023**: I am attending the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) from the 18th to 21st organized by the Emory University School of Medicine 🤓😎!
+
+**August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected for People's Choice Award by the healthcare professionals audence at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
+
 **July 2023**: I am excited to share that our team of Healthcare and ML domain experts entered the final round of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health](the https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
 **June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
@@ -67,6 +71,7 @@ Things other than ML I enjoy doing:
 ---
 Hiking 🥾
 Camping 🏕️
+Roadtrip 🚗
 Reading 📖
 Music - esp. Rachmaninoff 🎵 
 🚀
