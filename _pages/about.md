@@ -34,17 +34,17 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 Recent Updates:
 ---
-**[Hackathon] August 2023**: I am attending the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) from the 18th to 21st organized by the Emory University School of Medicine 🤓😎!
+**🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine 🤓😎! 
 
-**[Award] August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
+**🏆 August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
 
-**[Award] July 2023**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**🏆 July 2023**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
 **[Conference] June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
 
-**[Award] June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
+**🏆 June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
 
-**[Award] May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
+**🏆 May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
 
 **[Research] April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
 
@@ -64,7 +64,15 @@ Research <br />
 Book(s) I am reading:
 ---
 **The Raging 2020s: Companies, Countries, People - and the Fight for Our Future** by Alec Ross <br />
-**Hands-On Healthcare Data** by Andrew Nguyen
+**Hands-On Healthcare Data** by Andrew Nguyen  <br />
+**The Hospital** by Brian Alexander  <br />
+**The Genesis Machine** by Amy Webb and Andrew Hessel  <br />
+
+
+My favorite quotes: 
+---
+**“Love is at the root of everything. All learning, all parenting, all relationships. Love, or the lack of it.”** - Fred Rogers  <br />
+**"My heart is in the work."** - Andrew Carnegie
 
 
 Things other than ML I enjoy doing:
@@ -78,7 +86,7 @@ Music - esp. Rachmaninoff 🎵
 <br />
 <br />
 <br />
-<font size="-1"> Last Update: Aug 16th, 2023 </font> <br />
+<font size="-1"> Last Update: Sep 3rd, 2023 </font> <br />
 <br />
 <br />
 <br />
