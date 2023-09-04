@@ -52,11 +52,9 @@ Recent Updates:
 
 Keywords:
 ---
-Machine Learning <br />
-Deep Learning <br />
-Statistics <br />
+Machine Learning in Production <br />
 Healthcare Analytics <br />
-Biomedical Imaging <br />
+LLMs <br />
 Healthcare + Biomedical Applications <br />
 Product + Project Management <br />
 Research <br />
@@ -72,8 +70,8 @@ Book(s) I am reading:
 My favorite quotes: 
 ---
 **“Love is at the root of everything. All learning, all parenting, all relationships. Love, or the lack of it.”** - Fred Rogers  <br />
-**"My heart is in the work."** - Andrew Carnegie
-
+**"My heart is in the work."** - Andrew Carnegie <br />
+**"Never Settle for Less."** - DBS
 
 Things other than ML I enjoy doing:
 ---
