@@ -34,6 +34,8 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 Recent Updates:
 ---
+**[Career / Research] September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) 🤓😎! 
+
 **🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine 🤓😎! 
 
 **🏆 August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
