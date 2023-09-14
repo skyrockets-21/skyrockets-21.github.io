@@ -34,6 +34,8 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 Recent Updates:
 ---
+**September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and participated in [Nonaworks Hackathon 2023](https://www.nonasoftware.org/). It's awesome to learn ML in Biology and Synthetic Biology in Boston 😎! 
+
 **[Career / Research] September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) 🤓😎! 
 
 **🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine 🤓😎! 
