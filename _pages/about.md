@@ -34,7 +34,9 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 Recent Updates:
 ---
-**September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and participated in [Nonaworks Hackathon 2023](https://www.nonasoftware.org/). It's awesome to learn ML in Biology and Synthetic Biology in Boston 😎! 
+**September 2023**: I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
+
+**🏆 September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston 😎! 
 
 **[Career / Research] September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) 🤓😎! 
 
