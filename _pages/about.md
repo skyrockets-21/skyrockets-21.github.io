@@ -19,21 +19,22 @@ redirect_from:
 </script>
 
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
+Hi 👋! I am a Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt). My work focus on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing.
 
-
-
+<!---
 Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare⚕️ Researcher🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
 Before receiving my master's degree in Data Analytics and Public Policy from CMU this May, I did my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in Product and Project Management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html) 
-
-<font size="-1"> † denotes alphabetical ordering </font> 
+-->
 
 [comment]: <[![Thomas Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrockets-21)](https://github.com/anuraghazra/github-readme-stats)>
 
-Recent Updates:
+News:
 ---
+**[Career / Research] September 2023**: Our work **MedAI: Addressing Healthcare Burnout with AI-Powered Solution** has been accepted at the [Task Focused IR in the Era of Generative AI](https://ir-ai.github.io/) at Microsoft Research, Redmond, Washington!
+
 **September 2023**: I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
 
 **🏆 September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston 😎! 
