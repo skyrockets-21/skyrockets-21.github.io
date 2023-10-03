@@ -21,7 +21,7 @@ redirect_from:
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
 
 
-Hi 👋! I am a Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt). My work focus on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
+Hi 👋! I am a **Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt)**. My work focuses on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
 
 <!---
 Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare⚕️ Researcher🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
