@@ -19,7 +19,8 @@ redirect_from:
 </script>
 
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
-Hi 👋! I am a Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt). My work focus on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing.
+
+Hi 👋! I am a Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt). My work focus on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
 
 <!---
 Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare⚕️ Researcher🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
@@ -27,35 +28,38 @@ Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare⚕️ Resea
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
 Before receiving my master's degree in Data Analytics and Public Policy from CMU this May, I did my bachelor's degree in Economics from Hong Kong University of Science and Technology in 2013. I also have years of experience in Product and Project Management in the internet/fintech industry at companies such as [Tencent](https://www.tencent.com/en-us/index.html) 
+
+[Thomas Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrockets-21)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
-[comment]: <[![Thomas Tam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrockets-21)](https://github.com/anuraghazra/github-readme-stats)>
+
 
 News:
 ---
-**[Career / Research] September 2023**: Our work **MedAI: Addressing Healthcare Burnout with AI-Powered Solution** has been accepted at the [Task Focused IR in the Era of Generative AI](https://ir-ai.github.io/) at Microsoft Research, Redmond, Washington!
+**📚 September 2023**: Our work **MedAI: Addressing Healthcare Burnout with AI-Powered Solution** has been accepted at the [Task Focused IR in the Era of Generative AI](https://ir-ai.github.io/) at Microsoft Research, Redmond, Washington!
 
-**September 2023**: I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
+**📚 September 2023**: I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
 
-**🏆 September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston 😎! 
+**🏆 September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
 
-**[Career / Research] September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) 🤓😎! 
+**📚 September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) ! 
 
-**🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine 🤓😎! 
+**🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine ! 
 
-**🏆 August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows 🥳! 
+**🏆 August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows ! 
 
 **🏆 July 2023**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
-**[Conference] June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University 🤓😎!
+**📚 June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University !
 
-**🏆 June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) 🥳🏅!
+**🏆 June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) !
 
-**🏆 May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US 💪! 
+**🏆 May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US ! 
 
-**[Research] April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors 🔥! 
+**📚 April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
 
-**[Hackathon] April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT 🤓😎! 
+**🧑‍💻 April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT ! 
 
 Keywords:
 ---
