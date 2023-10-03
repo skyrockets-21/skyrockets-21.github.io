@@ -20,6 +20,7 @@ redirect_from:
 
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
 
+
 Hi 👋! I am a Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt). My work focus on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
 
 <!---
