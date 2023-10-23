@@ -21,10 +21,10 @@ redirect_from:
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
 
 
-Hi 👋! I am a **Healthcare AI Researcher at Carnegie Mellon University (CMU) and University of Pittsburgh (Pitt)**. My work focuses on AI applications in healthcare, spanning Computer Vision, Information Retrieval, and Natural Language Processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
+Hi 👋! I am a **Healthcare AI Researcher at the University of Pittsburgh (Pitt)**. My passion focuses on solving our biomedicine and healthcare problems with AI. My current work spans Alzheimer's Disease dementia detection, Knee Osteoarthritis (OA) risk prediction, and biomedical information retrieval and natural language processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
 
 <!---
-Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare⚕️ Researcher🧑‍💻 at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
+Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare Researcher at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
 
 Aspired to an impactful AI career in healthcare, I am currently working on two ML research projects in healthcare/biomedicine with hands-on experience in building robust ML pipelines to preprocess multimodal data ranging from EHRs and insurance claims to brain MRIs; and training, evaluating, and deploying deep learning models with PyTorch. I am also a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) at the Jewish Healthcare Foundation working to enhance patient safety with AI. Interested in Data Science for Social Good, previously I worked as Data Scientist at [412 Food Rescue](https://412foodrescue.org/)/[Food Rescue Hero](https://foodrescuehero.org/), a tech startup fighting the nationwide food insecurity problem. 
 
@@ -34,42 +34,41 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 -->
 
-
-
-News:
+⚕️📚 Research:
 ---
-**📚 September 2023**: Our work **MedAI: Addressing Healthcare Burnout with AI-Powered Solution** has been accepted at the [Task Focused IR in the Era of Generative AI](https://ir-ai.github.io/) at Microsoft Research, Redmond, Washington!
+**2023**
 
-**📚 September 2023**: I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
+**September**: 
 
-**🏆 September 2023**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
+- I am glad to share that I am joining the [**Pitt HexAI Lab**](https://pitthexai.github.io/) **at the University of Pittsburgh as a Healthcare Explainable AI Researcher** under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/)!
 
-**📚 September 2023**: I am glad to share that I am joining the [Pitt HexAI Lab](https://pitthexai.github.io/) at University of Pittsburgh as a Explainable Healthcare AI Researcher under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) ! 
+- Our work MedAI has been accepted at the [**Task Focused IR in the Era of Generative AI**](https://ir-ai.github.io/) **co-hosted by Microsoft Research and the Univ. of Washington**!
 
-**🏆 August 2023**: Our team has been awarded thrid place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine ! 
+- I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
 
-**🏆 August 2023**: Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows ! 
+**June**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University !
 
-**🏆 July 2023**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**April**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
 
-**📚 June 2023**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University !
-
-**🏆 June 2023**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) !
-
-**🏆 May 2023**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US ! 
-
-**📚 April 2023**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
-
-**🧑‍💻 April 2023**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT ! 
-
-Keywords:
+🧑‍💻🏆  Hackathons:
 ---
-Machine Learning in Production <br />
-Healthcare Analytics <br />
-LLMs <br />
-Healthcare + Biomedical Applications <br />
-Product + Project Management <br />
-Research <br />
+**2023**
+
+**September**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
+
+**August**: 
+
+- Our team has been awarded third place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine ! 
+
+- Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows! 
+
+**July**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+
+**June**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) !
+
+**May**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US ! 
+
+**April**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT ! 
 
 Book(s) I am reading:
 ---
@@ -96,7 +95,7 @@ Music - esp. Rachmaninoff 🎵
 <br />
 <br />
 <br />
-<font size="-1"> Last Update: October 3rd, 2023 </font> <br />
+<font size="-1"> Last Update: October 23rd, 2023 </font> <br />
 <br />
 <br />
 <br />
