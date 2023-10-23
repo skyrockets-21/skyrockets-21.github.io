@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Thomas Tam" # edit side bar here
   avatar           : "Headshot - Thomas Tam (Small_SQ).jpg"
-  bio              : "ML in Healthcare Researcher @ Carnegie Mellon University"
+  bio              : "Healthcare AI Researcher at the University of Pittsburgh"
   location         : "Pittsburgh, PA"
-  employer         : # "Carnegie Mellon University"
+  employer         : # "University of Pittsburgh"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://pitthexai.github.io/index.html
   bitbucket        :
   codepen          :
   dribbble         :
