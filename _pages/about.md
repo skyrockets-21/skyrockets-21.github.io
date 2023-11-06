@@ -50,17 +50,20 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 **April**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
 
-🧑‍💻🏆  Hackathons:
+🧑‍💻🏆  Hackathons and Competitions:
 ---
 **2023**
 
-**September**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the Gold Medal at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
+**November**:
+- Our team got **third place** from the [**QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by the University of California San Francisco!
+
+**September**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the **Gold Medal** at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
 
 **August**: 
 
-- Our team has been awarded third place at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine ! 
+- Our team has been awarded **third place** at the [Emory Health AI Bias Datathon '23](https://emory.healthdatathon.com/) organized by the Emory University School of Medicine ! 
 
-- Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for People's Choice Award at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows! 
+- Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for **People's Choice Award** at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows! 
 
 **July**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
