@@ -46,18 +46,25 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 - I am attending various AI in healthcare / biomedicine event organized by Harvard Medical School / Mass General Brigham in Boston!
 
-**June**: I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University !
+**June**: 
 
-**April**: I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
+- I will be attending the [AIMI Symposium](https://aimi.stanford.edu/aimisymposium/agenda) in person organized by the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center) at Stanford University !
+
+**April**: 
+
+- I have been selected to participate in an ML in Healthcare summer research camp at UIUC and I am happy to have Professor [Jimeng Sun](https://sunlab.org/). and Ph.D. student [Zhen Lin](https://zlin7.github.io) as my advisors! 
 
 🧑‍💻🏆  Hackathons and Competitions:
 ---
 **2023**
 
 **November**:
+
 - Our team got **third place** from the [**QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by the University of California San Francisco!
 
-**September**: Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the **Gold Medal** at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
+**September**: 
+
+- Our team attended the [IWBDA](https://www.iwbdaconf.org/2023/) and won the **Gold Medal** at the [Nonaworks Hackathon 2023](https://www.nonasoftware.org/) for our work on Phenotype Entity Recognition Model. It's awesome to learn ML in Biology and Synthetic Biology in Boston! 
 
 **August**: 
 
@@ -65,13 +72,21 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 - Our project "ROAD System: Reducing Opioid Overdoses and Deaths in PA" has been selected by an audience of healthcare professionals and patient advocates for **People's Choice Award** at the [Health Care Redesign Expo](https://www.patientsafetytech.com/pghexpo). Kudos to my best patient safety fellows! 
 
-**July**: I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
+**July**: 
 
-**June**: Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) !
+- I am excited to share that our team of Healthcare and ML domain experts has been shortlisted as Finalist of the [Generative AI Innovation Incubator at CMU - Medicine and Public Health Track](https://www.cs.cmu.edu/generative-ai/hackathons)! 
 
-**May**: Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US ! 
+**June**: 
 
-**April**: I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT ! 
+- Our team has been selected as Top 3 in the Machine Learning Category in the [SAS Hackathon](https://www.sas.com/sas/events/hackathon.html) !
+
+**May**: 
+
+- Passionate about Responsible AI in Healthcare, I have been selected by the Jewish Healthcare Foundation as a [Feinstein Patient Safety Fellow](https://www.patientsafetytech.com/fellowship/) to work on patient safety issues in the US ! 
+
+**April**: 
+
+- I am attending the [MIT Hacking Medicine - Grand Hack 2023](https://grandhack.mit.edu/boston23/) in person at MIT ! 
 
 Book(s) I am reading:
 ---
@@ -98,7 +113,7 @@ Music - esp. Rachmaninoff 🎵
 <br />
 <br />
 <br />
-<font size="-1"> Last Update: October 23rd, 2023 </font> <br />
+<font size="-1"> Last Update: November 5th, 2023 </font> <br />
 <br />
 <br />
 <br />
