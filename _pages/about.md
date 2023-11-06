@@ -60,7 +60,7 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 **November**:
 
-- Our team got **third place** from the [**QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by the University of California San Francisco!
+- Our team got **third place** at the [**QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by the University of California San Francisco!
 
 **September**: 
 
