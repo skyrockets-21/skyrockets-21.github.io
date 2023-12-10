@@ -21,7 +21,31 @@ redirect_from:
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
 
 
-Hi 👋! I am a **Healthcare AI Researcher at the University of Pittsburgh (Pitt)**. My passion focuses on solving our biomedicine and healthcare problems with AI. My current work spans Alzheimer's Disease dementia detection, Knee Osteoarthritis (OA) risk prediction, and biomedical information retrieval and natural language processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
+Hi! I am a **Healthcare AI Researcher at the University of Pittsburgh (Pitt) and NASA**. My passion focuses on solving our biomedicine and healthcare problems with AI. My current work spans Alzheimer's Disease dementia detection, Knee Osteoarthritis (OA) risk prediction, and clinical information retrieval and natural language processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
+
+💡Highlights:
+---
+- **Microsoft Research and the Univ. of Washington**
+  - I led a team-effort Poster Presentation [MedAI: Addressing Healthcare Burnout with AI-Powered Solution](https://ir-ai.github.io/images/4.pdf) at the Task Focused IR in the Era of Generative AI workshop co-hosted by Microsoft Research and the Univ. of Washington!
+- **Gingko Bioworks and Twist Bioscience**
+  - I led a team-effort and won the Gold Medal at the [Boston Nonaworks Hackathon 2023](https://www.nonasoftware.org/) with a panel of judges from Gingko Bioworks and Twist Bioscience.
+- **CMU Libraries**
+  - I coauthored my first Preprint on [generative AI and Knowledge Graph](https://osf.io/preprints/biohackrxiv/k4rh6) after participating a bioinformatics Hacakthon
+- **University of California San Francisco**
+  - Our team got third place at the QBI Hackathon organized by UCSF Quantitative Biosciences Institute! We are continuing the project and are happy to have UC Berkeley Professor Abby Dernburg and Professor Nicholas Ingolia as our advisors!
+
+🤝 Current and Past Collaborators:
+---
+- **🧪 Computational Biology and Experimental Biology**:
+  - CMU: Prof. Wei Wu
+  - Pitt: Prof. Natasa Miskov-zivanov
+  - UIUC: Prof. Haohan Wang
+  - UC Berkeley: Prof. Abby Dernburg, and Prof. Nicholas Ingolia
+- **⚕️ Medicine and Healthcare**:
+  - Pitt: Prof. Yanshan Wang, and Prof. Ahmad P. Tafti
+  - UIUC: Prof. Jimeng Sun
+- **🖥️ Data Science**:
+  - CMU: Prof. Gabriela Gongora-Svartzman  
 
 <!---
 Hi 👋! I am a self-driven 🔥🚀 Machine Learning for Healthcare Researcher at both Carnegie Mellon University (CMU) and the University of Illinois at Urbana-Champaign (UIUC) and AI Entrepreneur🚀 . It has been my pleasure to have Professor [George H. Chen†](https://www.andrew.cmu.edu/user/georgech/) and Professor [Wei Wu†](https://www.cs.cmu.edu/~weiwu2/) at CMU and Professor [Jimeng Sun†](http://sunlab.org/) and Professor [Haohan Wang†](https://haohanwang.github.io/index.html) at UIUC as my supervisors/advisors!
@@ -38,9 +62,14 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 ---
 **2023**
 
+**November**: 
+- I have started working on a three-phase proof-of-concept project with **National Aeronautics and Space Administration (NASA)** as Space Health Data Scientist (Consultant)!
+
+- I am glad to share that I am joining the [**PittNAIL**](https://pittnail.github.io/) **at the University of Pittsburgh as a Healthcare AI Researcher** under the supervision of Professor [Yanshan Wang](https://sites.pitt.edu/~yaw89/) - working on Clinical NLP with UPMC!
+
 **September**: 
 
-- I am glad to share that I am joining the [**Pitt HexAI Lab**](https://pitthexai.github.io/) **at the University of Pittsburgh as a Healthcare Explainable AI Researcher** under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/)!
+- I am glad to share that I am joining the [**Pitt HexAI Lab**](https://pitthexai.github.io/) **at the University of Pittsburgh as a Healthcare Explainable AI Researcher** under the supervision of Professor [Ahmad P. Tafti](https://aptafti.github.io/) - working on applying Computer Vision to solve osteoarthritis-related problems!
 
 - Our work MedAI has been accepted at the [**Task Focused IR in the Era of Generative AI**](https://ir-ai.github.io/) **co-hosted by Microsoft Research and the Univ. of Washington**!
 
@@ -60,7 +89,7 @@ Before receiving my master's degree in Data Analytics and Public Policy from CMU
 
 **November**:
 
-- Our team got **third place** at the [**QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by the University of California San Francisco!
+- Our team got **third place** at the [**University of California San Francisco QBI Hackathon 2023**](https://qbi.ucsf.edu/qbi-hackathon-2023)! We are continuing the project and are happy to have UC Berkeley Professor Abby Dernburg and Professor Nicholas Ingolia as our advisors!
 
 **September**: 
 
