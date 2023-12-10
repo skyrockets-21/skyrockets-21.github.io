@@ -21,7 +21,7 @@ redirect_from:
 ![Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975](/images/pgh.jpg "Pittsburgh, Creator: Freelancer975, Copyright: Freelancer975")
 
 
-Hi! I am a **Healthcare AI Researcher at the University of Pittsburgh (Pitt) and NASA**. My passion focuses on solving our biomedicine and healthcare problems with AI. My current work spans Alzheimer's Disease dementia detection, Knee Osteoarthritis (OA) risk prediction, and clinical information retrieval and natural language processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
+👋 Hi! I am a **Healthcare AI Researcher at the University of Pittsburgh (Pitt) and NASA**. My passion focuses on solving our biomedicine and healthcare problems with AI. My current work spans Alzheimer's Disease dementia detection, Knee Osteoarthritis (OA) risk prediction, and clinical information retrieval and natural language processing. I graduated with my master's degree in public policy and data analytics at CMU's Heinz College. Before CMU, I worked in product management and strategy in the internet and telecom industry in Hong Kong.
 
 💡Highlights:
 ---
