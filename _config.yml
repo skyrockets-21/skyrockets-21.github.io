@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Thomas Tam" # edit side bar here
   avatar           : "Headshot - Thomas Tam (Small_SQ).jpg"
-  bio              : "Healthcare AI Researcher at the University of Pittsburgh"
+  bio              : "Healthcare AI Researcher at the University of Pittsburgh and NASA"
   location         : "Pittsburgh, PA"
   employer         : # "University of Pittsburgh"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=en&authuser=2&user=7gHSesEAAAAJ
   email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://pitthexai.github.io/index.html
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
