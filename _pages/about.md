@@ -27,11 +27,11 @@ redirect_from:
 ---
 - **UCSF**
   - Awarded third place at the [QBI Hackathon](https://qbi.ucsf.edu/qbi-hackathon-2023) organized by UCSF Quantitative Biosciences Institute! We are continuing the project and are happy to have UC Berkeley Professor Abby Dernburg and Professor Nicholas Ingolia as our advisors!
-- **Microsoft Research**
+- **Poster - Microsoft Research**
   - Presented a Poster [MedAI: Addressing Healthcare Burnout with AI-Powered Solution](https://ir-ai.github.io/images/4.pdf) at the Task Focused IR in the Era of Generative AI workshop co-hosted by Microsoft Research and the Univ. of Washington!
 - **Gingko Bioworks and Twist Bioscience**
-  - Led a team-effort and won the Gold Medal at the [Boston Nonaworks Software x Biology Hackathon 2023](https://www.nonasoftware.org/) for our work in biomedical information retrieval and NLP with a panel of judges from Gingko Bioworks and Twist Bioscience!
-- **CMU Libraries**
+  - Won the Gold Medal at the [Boston Nonaworks Software x Biology Hackathon 2023](https://www.nonasoftware.org/) for our work in biomedical information retrieval and NLP with a panel of judges from Gingko Bioworks and Twist Bioscience!
+- **Preprint - CMU Libraries**
   - Coauthored my first Preprint on [Generative AI and Knowledge Graph](https://osf.io/preprints/biohackrxiv/k4rh6) after participating a bioinformatics Hacakthon organized by CMU Libraries
 
 🤝 Current and Past Collaborators:
