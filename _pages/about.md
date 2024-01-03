@@ -129,8 +129,8 @@ My favorite quotes:
 ---
 **“Love is at the root of everything. All learning, all parenting, all relationships. Love, or the lack of it.”** - Fred Rogers  <br />
 **"My heart is in the work."** - Andrew Carnegie <br />
+**"Never Settle for Less."** - DBS <br />
 **Three Blind Men and the Elephant** - Indian Parable
-**"Never Settle for Less."** - DBS
 
 Things other than ML I enjoy doing:
 ---
