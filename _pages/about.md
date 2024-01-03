@@ -129,6 +129,7 @@ My favorite quotes:
 ---
 **“Love is at the root of everything. All learning, all parenting, all relationships. Love, or the lack of it.”** - Fred Rogers  <br />
 **"My heart is in the work."** - Andrew Carnegie <br />
+**Three Blind Men and the Elephant** - Indian Parable
 **"Never Settle for Less."** - DBS
 
 Things other than ML I enjoy doing:
@@ -142,7 +143,7 @@ Music - esp. Rachmaninoff 🎵
 <br />
 <br />
 <br />
-<font size="-1"> Last Update: November 5th, 2023 </font> <br />
+<font size="-1"> Last Update: January 3rd, 2024 </font> <br />
 <br />
 <br />
 <br />
